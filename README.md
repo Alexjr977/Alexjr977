@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexjr977
-- 👀 I’m interested in game dev, app dev, web dev, programming, 3d artist like 3d models or vfx etc.
-- 🌱 I’m currently learning game dev,graphic design, programming.
-- 💞️ :)
+- 👀 I’m interested in game dev, app dev, web dev, programming, 3d design and art etc.
+- 🌱 I’m currently learning Game Dev.
+-  :)
 - 📫 How to reach me https://linktr.ee/Alexjr977
 
 <!---
